@@ -11,12 +11,12 @@ Focus: Customer behavior, sales performance, product revenue, and discount analy
 
 ## Project Structure
 Sales_Analysis/
-├─ data/ # Raw CSV dataset
-├─ scripts/ # SQL scripts for cleaning and analysis
-│ └─ sales_analysis.sql
-├─ docs/ # Diagrams
-│ └─ architecture.png
-└─ README.md # Project overview
+├─ data/           # Raw CSV dataset
+├─ scripts/        # SQL scripts for cleaning and analysis
+│   └─ sales_analysis.sql
+├─ docs/           # Diagrams
+│   └─ architecture.png
+└─ README.md       # Project overview
 
 ## Analysis Steps
 1. Remove duplicate CustomerIDs (keep highest Sales per customer)  
