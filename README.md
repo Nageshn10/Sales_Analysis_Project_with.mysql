@@ -1,13 +1,15 @@
-# Sales_Analysis_Project (Small Project)
+# Sales_Analysis_Project
 
 ## Objective
-Clean and analyze a small sales dataset using SQL in MySQL.  
+Clean and analyze a compact sales dataset using SQL in MySQL.  
 Focus: Customer behavior, sales performance, product revenue, and discount analysis.
 
 ## Dataset
 - Raw CSV: `data/sales.csv`  
 - Imported directly into MySQL for analysis  
-- Small-sized dataset, suitable for concise analysis
+- Compact dataset, manageable for focused analysis
+
+## Project Structure
 
 ## Project Structure
 ```
