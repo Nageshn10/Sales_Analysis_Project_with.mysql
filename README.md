@@ -10,7 +10,7 @@ Focus: Customer behavior, sales performance, product revenue, and discount analy
 - Small-sized dataset, suitable for practice and learning SQL
 
    ## Project Structure
-
+```
 Sales_Analysis/
 ├─ data/ # Raw CSV dataset
 ├─ scripts/ # SQL scripts for cleaning and analysis
@@ -18,7 +18,7 @@ Sales_Analysis/
 ├─ docs/ # Diagrams
 │ └─ architecture.png
 └─ README.md # Project overview
-
+```
 
 
 ## Analysis Steps
