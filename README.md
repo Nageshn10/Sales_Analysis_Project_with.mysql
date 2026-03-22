@@ -5,18 +5,20 @@ Clean and analyze a sales dataset using SQL in MySQL.
 Focus: Customer behavior, sales performance, product revenue, and discount analysis.
 
 ## Dataset
-- Raw CSV: `data/sales.csv`
-- Imported directly into MySQL for analysis.
-- Small-sized dataset, suitable for practice and learning SQL.
+- Raw CSV: `data/sales.csv`  
+- Imported directly into MySQL for analysis  
+- Small-sized dataset, suitable for practice and learning SQL
 
 ## Project Structure
 Sales_Analysis/
-├─ data/           # Raw CSV dataset
-├─ scripts/        # SQL scripts for cleaning and analysis
-│   └─ sales_analysis.sql
-├─ docs/           # Diagrams
-│   └─ architecture.png
-└─ README.md       # Project overview
+├─ data/ # Raw CSV dataset
+├─ scripts/ # SQL scripts for cleaning and analysis
+│ └─ sales_analysis.sql
+├─ docs/ # Diagrams
+│ └─ architecture.png
+└─ README.md # Project overview
+
+
 
 ## Analysis Steps
 1. Remove duplicate CustomerIDs (keep highest Sales per customer)  
@@ -31,6 +33,6 @@ Sales_Analysis/
 ![Architecture Diagram](docs/architecture.png)
 
 ## Notes
-- Cleaned data is generated in MySQL using the `sales_cleaned` table.  
-- SQL script handles all cleaning and analysis automatically.  
-- The project is small in scale but demonstrates **basic SQL data cleaning and analysis workflows**.
+- Cleaned data is generated in MySQL using the `sales_cleaned` table  
+- SQL script handles all cleaning and analysis automatically  
+- The project is small in scale but demonstrates **basic SQL data cleaning and analysis workflows**
